@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+<img src="https://github.com/rahamanar/Alan_AI_Radio/blob/main/Screenshot_1.png" width="200" height="385">
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
